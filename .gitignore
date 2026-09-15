@@ -1,0 +1,11 @@
+# Virtual environment
+tf_env/
+
+# Dataset (too large for git)
+genres_original/
+*.npy
+
+# Python
+__pycache__/
+*.pyc
+.DS_Store
